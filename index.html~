@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>u10116035林杰毅 自我介紹</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+        <div class="container topnav">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="#home">Home</a>
+                    </li>
+                    <li>
+                        <a href="#about">About</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+
+    <!-- Header -->
+    <a name="home"></a>
+    <div class="intro-header">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-message">
+                        <h1>林杰毅(Jae-Yi Lin)</h1>
+                        <!--<h3></h3>-->
+                        <hr class="intro-divider">
+                        <!--<ul class="list-inline intro-social-buttons">
+                            <li>
+                                <a href="https://twitter.com/SBootstrap" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
+                            </li>
+                            <li>
+                                <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                            </li>
+                            <li>
+                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                            </li>
+                        </ul>-->
+                    </div>
+                </div>
+            </div>
+ 
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.intro-header -->
+
+    <!-- Page Content -->
+    <a name="about"></a>
+    <div class="content-section-a">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">關於我<br></h2>
+                    <p class="lead">我叫林杰毅，現在就讀台北市立大學 資訊科學系四年級，喜愛遊戲，未來想進入遊戲產業以及當個業餘實況主。</p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/utcs.png" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">日本旅遊<br></h2>
+                    <p class="lead">第一次出國非常興奮以及緊張，而且又是與幾個好朋友自助旅行，所以格外的緊張。左圖是一家很讓人印象深刻的迴轉壽司店，食材新鮮價格平民，非常推薦三文魚（鮭魚），由其是炙燒的那款。</p>
+                </div>
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                    <img class="img-responsive" src="img/japan.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+     
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">我的實況台<br></h2>
+                    <p class="lead">
+                    我非常的喜愛玩遊戲，幾乎所有的類型都有接觸過，目前電腦常玩遊戲如下：CS:GO、LoL<br>
+                    Ps4目前遊戲非常少，目前：巫師3、絕地戰兵<br>未來：Fallout4、噬神者、潛龍諜影5：幻痛、決勝時刻：黑色行動3、Far Cry：Primal<br>
+                    <a href="http://www.twitch.tv/dropkill717" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-twitch fa-fw"></i> <span class="network-name">點我點我</span></a> 
+                    <h2 class="section-heading">常用歌單<br></h2>
+                    <a href="https://www.youtube.com/playlist?v=qYUjbVIIXIE&list=PLcHa14AHKzfS8Yg6GZCTHWwn07Uqm2xAm" class= "btn btn-default btn-lg" target="_blank"> <i class="fa fa-youtube fa-fw"></i> <span class="network-name">歌單1</span></a>
+                    <a href="://www.youtube.com/watch?v=5LI5QZVUU98&list=PLRBp0Fe2GpgmsW46rJyudVFlY6IYjFBIKtn" class = "btn btn-default btn-lg" target="_blank"><i class="fa fa-youtube fa-fw"></i> <span class="network-name">歌單2</span></a>
+                    <a href="https://play.spotify.com/user/11137880264/playlist/6Nnr4V8Qa6s1QAZLdduA8p" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-spotify fa-fw"></i> <span class="network-name">歌單3</span></a>
+                    </p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/youtubetwitch.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">拉麵推薦<br></h2>
+                    <p class="lead">
+                    由於我非常喜歡吃拉麵，因此來推薦個好吃的拉麵店
+                    <h4>
+                        <ul class="content">
+                            <li class="list">
+                            凪(Nagi)
+                            <a href="https://www.facebook.com/ramennagi.taiwan" target="_blank">FB</a>
+                            </li>
+                            <li class="list">
+                            屯京拉麵
+                            <a href="https://www.facebook.com/tonchin1" target="_blank">FB</a>
+                            </li>
+                            <li class="list">
+                            鷹流東京醬油拉麵
+                            <a href="https://www.facebook.com/%E9%B7%B9%E6%B5%81%E6%9D%B1%E4%BA%AC%E9%86%A4%E6%B2%B9%E6%8B%89%E9%BA%BA%E8%98%AD%E4%B8%B8ranmaru-257221581146412/" target="_blank">FB</a>
+                            </li>
+                            <li class="list">
+                            樂麵屋
+                            <a href="https://www.facebook.com/rakumenya" target="_blank">FB</a>
+                            </li>
+                        </ul>
+                     </h4>
+                    </p>
+                </div>
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/ramen1.jpg" alt="">
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+
+	<a  name="contact"></a>
+    <div class="banner">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-3">
+                    <h2>Connect me:</h2>
+                </div>
+                <div class="col-lg-2">
+                    <ul class="list-inline banner-social-buttons">
+                        <li>
+                            <a href="http://www.facebook.com/disc9562" class="btn btn-default btn-lg" target="_blank"><i class="fa fa-facebook fa-fw"></i> <span class="network-name">Facebook</span></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.banner -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="list-inline">
+                        <li>
+                            <a href="#">Home</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#about">About</a>
+                        </li>
+                        <li class="footer-menu-divider">&sdot;</li>
+                        <li>
+                            <a href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                    <p class="copyright text-muted small">Copyright &copy; Your Company 2014. All Rights Reserved</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
